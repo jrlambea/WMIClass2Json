@@ -1,0 +1,9 @@
+C:\Users\bsaejl02\AppData\Local\Temporary Projects\WMIClass2Json\bin\Debug\WMIClass2Json.exe.config
+C:\Users\bsaejl02\AppData\Local\Temporary Projects\WMIClass2Json\bin\Debug\WMIClass2Json.exe
+C:\Users\bsaejl02\AppData\Local\Temporary Projects\WMIClass2Json\bin\Debug\WMIClass2Json.pdb
+C:\Users\bsaejl02\AppData\Local\Temporary Projects\WMIClass2Json\obj\Debug\WMIClass2Json.csprojResolveAssemblyReference.cache
+C:\Users\bsaejl02\AppData\Local\Temporary Projects\WMIClass2Json\obj\Debug\WMIClass2Json.exe
+C:\Users\bsaejl02\AppData\Local\Temporary Projects\WMIClass2Json\obj\Debug\WMIClass2Json.pdb
+C:\Users\bsaejl02\Documents\Visual Studio 2015\Projects\WMIClass2Json\WMIClass2Json\bin\Debug\WMIClass2Json.exe.config
+C:\Users\bsaejl02\Documents\Visual Studio 2015\Projects\WMIClass2Json\WMIClass2Json\obj\Debug\WMIClass2Json.exe
+C:\Users\bsaejl02\Documents\Visual Studio 2015\Projects\WMIClass2Json\WMIClass2Json\obj\Debug\WMIClass2Json.pdb
